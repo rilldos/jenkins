@@ -11,5 +11,11 @@
 	<div>Hi Jenkins Deployment</div>
 	<div>ahahhahahah~~~</div>
 	<h1><a href="#">JENKINS~~!!</a></h1>
+
+	<div>Git Hooks를 동작시키는 merge</div>
+
+
+
+
 </body>
 </html>
